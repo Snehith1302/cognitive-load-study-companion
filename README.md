@@ -2,7 +2,6 @@
 
 A full-stack web application that helps students study smarter by measuring cognitive effort and providing AI-driven recommendations to prevent burnout and improve retention.
 
-![Study Companion Banner](https://images.pexels.com/photos/5212317/pexels-photo-5212317.jpeg?auto=compress&cs=tinysrgb&w=1200&h=400&fit=crop)
 
 ## Problem Statement
 
